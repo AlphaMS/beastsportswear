@@ -1,122 +1,122 @@
 {
   "products": [
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Man Track Suit",
+      "price": "99.99",
       "image": "./images/pic1.jpg",
       "category": "featured"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Man Track Suit",
+      "price": "99.99",
       "image": "./images/pic2.jpg",
       "category": "trend"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Woman Track Suit",
+      "price": "99.99",
       "image": "./images/pic3.jpg",
       "category": "featured"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Woman Track Suit",
+      "price": "99.99",
       "image": "./images/pic4.jpg",
       "category": "trend"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Girls Sports Shoes",
+      "price": "99.99",
       "image": "./images/pic5.jpg",
       "category": "featured"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Sports Shoes",
+      "price": "99.99",
       "image": "./images/pic6.jpg",
       "category": "recent"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Girls Sports Shoes",
+      "price": "99.99",
       "image": "./images/pic8.jpg",
       "category": "trend"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Man Sports Shoe",
+      "price": "99.99",
       "image": "./images/pic7.jpg",
       "category": "featured"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Girls Sports Shoes",
+      "price": "99.99",
       "image": "./images/pic8.jpg",
       "category": "recent"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Man Track Suit",
+      "price": "99.99",
       "image": "./images/pic1.jpg",
       "category": "trend"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Man Sports Shoe",
+      "price": "99.99",
       "image": "./images/pic9.jpg",
       "category": "special"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Sleeveless for man",
+      "price": "99.99",
       "image": "./images/pic10.jpg",
       "category": "special"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Sleeveless for man",
+      "price": "99.99",
       "image": "./images/pic11.jpg",
       "category": "special"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "T-Shirt For Man",
+      "price": "99.99",
       "image": "./images/pic12.jpg",
       "category": "recent"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Man Sports Shoe",
+      "price": "99.99",
       "image": "./images/pic7.jpg",
       "category": "special"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Moddest Wear",
+      "price": "99.99",
       "image": "./images/pic13.jpg",
       "category": "latest"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Relax Wear",
+      "price": "99.99",
       "image": "./images/pic14.jpg",
       "category": "recent"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Woman Sports Shoe",
+      "price": "99.99",
       "image": "./images/pic8.jpg",
       "category": "latest"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Badminton Dress",
+      "price": "99.99",
       "image": "./images/pic15.jpg",
       "category": "latest"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Man Track Suit",
+      "price": "99.99",
       "image": "./images/pic1.jpg",
       "category": "latest"
     }
