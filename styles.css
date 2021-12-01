@@ -58,7 +58,7 @@ img {
 }
 @media only screen and (max-width: 1200px) {
   .container {
-    padding: 0 5rem;
+    padding: 0 1rem;
   }
 }
 
@@ -104,7 +104,8 @@ img {
 }
 
 .nav-center {
-  display: flex;
+  display: grid;
+  grid-template-columns: 0.2fr 1.2fr 2fr 0.6fr;
   align-items: center;
   justify-content: space-between;
 }
@@ -117,6 +118,14 @@ img {
   color: var(--black);
 }
 
+.logo img{
+  border-radius: 50%;
+  height:50px;
+}
+.logo h1{
+  margin-left:2%;
+  display: inline-block;
+}
 .logo span {
   color: var(--pink);
 }
@@ -237,7 +246,12 @@ img {
   .nav-menu.show {
     left: 0;
   }
-
+  .nav-center{
+    grid-template-columns: 0.5fr 2.5fr 0.5fr 0.5fr;
+  }
+  .logo h1{
+    font-size:2.3rem;
+  }
   .nav-list {
     flex-direction: column;
     align-items: start;
@@ -245,7 +259,7 @@ img {
   }
 
   .nav-menu .logo h1 {
-    font-size: 1.8rem;
+    font-size: 1.9rem;
     font-weight: 500;
     color: var(--white);
   }
@@ -255,11 +269,12 @@ img {
   }
 
   .nav-top {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 3.5fr 0.5fr;
     justify-content: space-between;
     align-items: center;
     background-color: var(--pink);
-    padding: 1.6rem 2rem;
+    padding: 1.6rem;
   }
 
   .hamburger {
@@ -326,23 +341,15 @@ img {
   bottom: 0;
 }
 
-.banner img.special_01 {
-  width: 85rem;
-  right: -5%;
+.banner img {
+  width: 45rem;
+  height:45rem;
+  right: 0%;
 }
-.banner img.special_02 {
-  width: 100rem;
-  right: -10%;
-}
-.banner img.special_03 {
-  width: 100rem;
-  right: -10%;
-}
-
 .banner-content {
   position: absolute;
   top: 50%;
-  transform: translate(25%, -50%);
+  transform: translate(20%, -50%);
 }
 
 .banner-content span {
@@ -424,7 +431,7 @@ img {
 }
 
 .glide__arrow--left {
-  left: 5%;
+  left: 2%;
 }
 
 .glide__arrow--right {
@@ -438,15 +445,6 @@ img {
     height: 90vh;
   }
 
-  .banner img.special_01 {
-    width: 60rem;
-  }
-  .banner img.special_02 {
-    width: 70rem;
-  }
-  .banner img.special_03 {
-    width: 70rem;
-  }
 }
 
 @media only screen and (max-width: 996px) {
